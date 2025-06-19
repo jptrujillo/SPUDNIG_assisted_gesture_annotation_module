@@ -16,6 +16,6 @@ Next, it's recommended that you make a virtual environment and run all code from
 <i>./venv/Scripts/activate</i> <br>
 <i>pip install -r requirements.txt</i> <br>
 <br>
-Note that you should run Jupyter from within this virtual environment, and open the .ipynb file.<br>
+Note that you should run Jupyter from within this virtual environment, and open the notebook file (Assisted_Gesture_Annotation.ipynb) file.<br>
 <i> jupyter lab</i>
 
