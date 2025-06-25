@@ -5,3 +5,5 @@ numpy
 scipy
 jupyter
 pympi-ling
+ultralytics
+yolo
